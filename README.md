@@ -1,4 +1,3 @@
 # Projet La Religieuse
 
-Une aventure humaine [hors du commun](https://www.youtube.com/watch?v=WHDdCqz5kck).
-
+Site vitrine fictif consacré à une liqueur. Projet réalisé dans le cadre de la Wild Code School - Semaine 1.
